@@ -1,7 +1,11 @@
 # About
+
 ===========
+
 To start timer press "S" key
+
 ===========
+
 Timer for speedruns, always stay on top
 
 All configuration saved in "settings.ini"
