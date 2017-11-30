@@ -1,0 +1,2 @@
+# About
+Timer for speedruns
